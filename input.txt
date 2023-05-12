@@ -1,0 +1,11 @@
+help
+load music01_todiff.txt
+search album fearless
+search album fearless love
+search artist taylor -swift
+search song you
+stats
+stats -d
+export music01_fromprogram.txt
+exit
+
